@@ -1,21 +1,22 @@
-// 1. No keyword in variable name
+// 1. No Keyword in Variable Name
 var false = 45;
 var var = 50;
 
-// No space or gap in variable name
+// No Space or Gap in Variable Name
 var is happy = false;
-var ishappy = true;
+var isHappy = true;
 
-// 3. No quote in variable name
+// 3. No Quote in Variable Name
 var "address" = Kochu khet;
 var address = "Kochu khet";
 
-// 4. Can not start with a number in variable name. But you can use number at any place except first letter in a variable name.
+// 4. Can Not Start With a Number in Variable Name. 
 var money = 45;
 var 2money = 69;
-var money = 55; 
+var money2 = 55; 
+var have2Money = 500;
 
-// 5. Name is case sensitive
+// 5. Variable Name is Case Sensitive
 address
 Address 
 ADDRESS 

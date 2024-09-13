@@ -1,12 +1,12 @@
 /**
  * VARIABLE ==> vary + able
- * 5 things to declare a variable
- * 
+ * 5 things to declare a variable 
 */
-var weight = 38;
-var price = 38;
-var year = 1938;
-var money =3800;
+
+var weight = 69;
+var price = 1000;
+var year = 1969;
+var money = 100;
 money = 500;
 
 var age;

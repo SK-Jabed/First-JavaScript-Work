@@ -1,19 +1,33 @@
-// String type variable
-var name = "Sadar Uddin";
+// String Type Variable
+var myName = "Sheikh Jabed";
+var address = "Dhaka";
+var country = 'Bangladesh';
 
-var address = "Andar killa bandorban with some katabon";
+console.log(myName);
+console.log(address);
+console.log(country);
 
-var country = 'Bangladesh'
+// Check Type of Any Variable
+console.log(typeof myName);
+console.log(typeof address);
 console.log(typeof country);
 
-// Boolean type variable
+// Boolean Type Variable
 var isRich = true;
 console.log(isRich);
 
 var passed = false;
 console.log(passed);
+
+console.log(typeof isRich);
 console.log(typeof passed);
 
 // Number type variable
-var price = 555;
+var age = 18;
+var price = 500;
+
+console.log(age);
+console.log(price);
+
+console.log(typeof age);
 console.log(typeof price);
