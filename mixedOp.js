@@ -1,10 +1,10 @@
-var first = 'Mobarok';
-var second = 'Tobarok';
+var first = "Bang";
+var second = "Bang";
 
-var fullname = first + second;
-// console.log(fullname);
+var fullName = first + second;
+console.log(fullName);
 
-// console.log(40 + '20');
-console.log('40' - 20);
-console.log(50 * '5');
-console.log(500 / '5');
+console.log(40 + "20");
+console.log("40" - 20);
+console.log(50 * "5");
+console.log(500 / "5");
